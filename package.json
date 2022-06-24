@@ -8,6 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "apollo": "^2.34.0",
+    "graphql": "^14.7.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
